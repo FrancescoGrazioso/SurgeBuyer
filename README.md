@@ -1,5 +1,7 @@
 # surgebuyer
 
+The first interactive dApp to buy Surge Token, check out https://surgebuyer.web.app/ for the working product
+
 ## Project setup
 ```
 npm install
